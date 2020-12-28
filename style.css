@@ -141,7 +141,8 @@ h1 {
 }
 
 textarea {
-  height: 20rem;
+  height: 30rem;
+  font-family: sans-serif;
 }
 
 .voiceinator button {
@@ -151,7 +152,7 @@ textarea {
   float: left;
   font-family: "Pacifico", cursive;
   margin-bottom: 0;
-  font-size: 2rem;
+  font-size: 2.5rem;
   border-bottom: 5px solid #5ecace;
   cursor: pointer;
   position: relative;
