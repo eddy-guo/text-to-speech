@@ -43,6 +43,7 @@
       function populateVoices() {
         voices = this.getVoices();
         voicesDropdown.innerHTML = voices
+          //can remove .filter to access other languages
           .filter((voice) => voice.lang.includes("en"))
           .map(
             (voice) =>
