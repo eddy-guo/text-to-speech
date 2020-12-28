@@ -1,2 +1,2 @@
 # Notes
-The Web Speech or Speech Synthesis API comes with modern browsers, but the list of languages will change depending on the browser being used. 
+The Web Speech or Speech Synthesis API comes with most modern browsers. However, the list of languages may change depending on the browser being used due to differences in API, affecting the languages available for use. 
